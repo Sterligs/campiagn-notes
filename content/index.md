@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Campaign Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This took me 6 hours to make so please use them

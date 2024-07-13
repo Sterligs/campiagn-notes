@@ -1,5 +1,4 @@
 ---
-tags:
-  - private
+draft: true
 ---
 jjjjjjj
